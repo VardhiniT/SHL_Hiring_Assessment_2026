@@ -1,0 +1,12 @@
+faster-whisper
+sentence-transformers
+transformers
+torch
+soundfile
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+tqdm
+ipython
